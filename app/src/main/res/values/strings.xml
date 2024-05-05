@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">FoodDeliveryApp</string>
+    <string name="no_internet_message">No internet connection. Please make sure you are connected with network.</string>
+    <string name="no_restaurant_found">No restaurants found.</string>
+    <string name="no_open_status">Unable to fetch open status of the restaurant.</string>
+    <string name="content_desc_restaurant_logo">Logo of the restaurant.</string>
+    <string name="content_desc_restaurant_rating">Star rating of the restaurant.</string>
+    <string name="content_desc_restaurant_filter">Image for filtering the restaurant.</string>
+    <string name="open_status">Open</string>
+    <string name="close_status">Close</string>
+</resources>
